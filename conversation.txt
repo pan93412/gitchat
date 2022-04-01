@@ -1,3 +1,25 @@
+commit df53f715a3396b967a572716cb76aff83c2c50cc
+Author: pan93412 <pan93412@gmail.com>
+Date:   Fri Apr 1 10:52:17 2022 +0800
+
+    嗨
+
+commit a74a3de3edebaadb4db1d515425752f1a49501c1
+Author: pan93412 <pan93412@gmail.com>
+Date:   Fri Apr 1 10:54:56 2022 +0800
+
+    ci(Mergify): configuration update
+    
+    Signed-off-by: pan93412 <pan93412@gmail.com>
+
+commit b13a6741284cf85b74bb2e83017210363af25539
+Author: pan93412 <pan93412@gmail.com>
+Date:   Fri Apr 1 10:51:14 2022 +0800
+
+    ci(Mergify): configuration update
+    
+    Signed-off-by: pan93412 <pan93412@gmail.com>
+
 commit 17e978c88a6310338c69932317ea851bfa990437
 Author: pan93412 <pan93412@gmail.com>
 Date:   Fri Apr 1 10:41:36 2022 +0800
